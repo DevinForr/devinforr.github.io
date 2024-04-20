@@ -19,7 +19,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Devin and I've loved playing and talking about Video Games since I was a young child, and now I want to talk about them to the internet!
   This blog will talk about all games, new and old, AAA and indie and everything in between!
-baseurl: "/site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devinforr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
